@@ -1,4 +1,5 @@
-# MACHINE LEARNING DIAMOND PRICE PREDICTION
+# DIAMOND PRICE PREDICTION
+### MACHINE LEARNING END TO END REGRESSION PROJECT
 
  Link for web base result : 
  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]( https://diamond-shjfjlru5k2rmytww9sm5b.streamlit.app)
