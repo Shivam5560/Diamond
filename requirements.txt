@@ -3,3 +3,5 @@ numpy
 seaborn
 flask
 scikit-learn
+xgboost
+streamlit
