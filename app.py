@@ -5,7 +5,7 @@ cut_categories = ['Fair', 'Good', 'Very Good','Premium','Ideal']
 color_categories = ['D', 'E', 'F', 'G', 'H', 'I', 'J']
 clarity_categories = ['I1','SI2','SI1','VS2','VS1','VVS2','VVS1','IF']
 
-st.title('PREDICT QUALITY OF FRESH WATER')
+st.title('PRICE OF THE DIAMONDS ')
 col1, col2, col3 ,col4= st.columns(4)
 with col1:
     carat=st.number_input("CARAT VALUE",step=1.,format="%.5f")
